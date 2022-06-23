@@ -1,0 +1,14 @@
+.image1 img{
+    width: 100%;
+    
+}
+.image2 img{
+       width: 100%;
+}
+.image-wrapper{
+    display: flex;
+    gap: 20px;
+}
+body{
+    background-color: rgba(74, 61, 15, 0.895);
+}
